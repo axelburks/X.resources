@@ -13,6 +13,10 @@
         {
             "name": "reject-no-drop.png",
             "url": "https://raw.githubusercontent.com/axelburks/X.resources/main/icon/my/reject-no-drop.png"
+        },
+        {
+            "name": "GLaDOS.png",
+            "url": "https://raw.githubusercontent.com/axelburks/X.resources/main/icon/my/GLaDOS.png"
         }
     ]
 }
